@@ -42,5 +42,4 @@ This project presents an interactive Super Store Analysis Dashboard, providing i
 - Top City by Sales in `Oklahoma`: Tulsa with $19,683 in sales.
 
   ## Dashboard
-    ![Final Dashboard](![image](https://github.com/user-attachments/assets/e23417fc-ca93-491d-aeb8-f3042f02f868)
-)
+    ![Final Dashboard](https://github.com/maiimamdooh/Super-Store-analysis/blob/main/Dashboard.jpeg?raw=true)
