@@ -1,5 +1,7 @@
 # Super Store Analysis using Tableau
-This project presents an interactive Super Store Analysis Dashboard, providing insights into sales performance, profit distribution, and return orders. The dashboard visualizes key metrics across different dimensions such as sales representatives, product categories, and geographic regions.
+This project presents an interactive Super Store Analysis Dashboard, providing insights into sales performance, profit distribution, and return orders. The dashboard visualizes key metrics across different dimensions such as sales representatives, product categories, and geographic regions. 
+You can see the whole project here: 
+(Presentation)[https://gamma.app/docs/Copy-of-Business-Store-Analysis-n5k4zyuxz7xypci] 
 
 ## Key Performance Indicators (KPIs)
 
